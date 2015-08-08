@@ -1,7 +1,7 @@
 
 import java.util.Scanner;
 
-public class starPyramid {
+public class Star {
 
 	public static void main(String agrs[]) {
 		int i,j,n;
@@ -27,5 +27,6 @@ public class starPyramid {
 in.close();
 	
 System.out.println("thank you");
+System.out.println("Superb");
 }
 }
