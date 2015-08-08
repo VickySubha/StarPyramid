@@ -25,5 +25,7 @@ public class starPyramid {
             }
             System.out.println();
 in.close();
-	}
-    }
+	
+System.out.println("thank you");
+}
+}
